@@ -7,7 +7,7 @@ class Main:
         self.queue = queue.Queue()
 
     def fetch(self):
-        with open("B:\\proxies.txt","r")as f:
+        with open("proxies.txt","r")as f:
             proxies = f.read().split("\n")
             for proxy in proxies:
                 self.queue.put(proxy)
@@ -34,4 +34,5 @@ class Main:
 
 if __name__ == "__main__":
     app = Main()
+
     app.run()
