@@ -61,3 +61,7 @@ Prints results:
 
 ## 📸 Example Output
 
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/581818ec-61ea-498a-b606-55194d923a97" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/cdc891c3-62b5-4f87-aa6f-3338c40802fb" />
+
+
